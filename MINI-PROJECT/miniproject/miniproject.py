@@ -37,7 +37,7 @@ if st.button("Calculate Interest"):
         total_amount = principal + interest
         st.write(f"Simple Interest: ₹{interest:.2f}")
         st.write(f"Total Amount (Principal + Interest): ₹{total_amount:.2f}")
-    elif interest_type == "Compound Interest":t
+    elif interest_type == "Compound Interest":
         compound_interest, total_amount = calculate_compound_interest(principal, rate, time, frequency)
         st.write(f"Compound Interest: ₹{compound_interest:.2f}")
         st.write(f"Total Amount (Principal + Interest): ₹{total_amount:.2f}")
