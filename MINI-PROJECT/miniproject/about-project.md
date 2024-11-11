@@ -24,29 +24,7 @@ This project is an interactive **Interest Calculator** web application developed
      - \( n \) is the number of times the interest is compounded per year
      - \( t \) is the time period in years
 
-3. **Simple User Interface:**
-   - The app provides an interactive interface where users can input values for principal, rate, and time using number inputs.
-   - Users can select the interest type (Simple or Compound) from a dropdown menu and can choose the compounding frequency for compound interest.
-
-#### **How it Works:**
-1. **Simple Interest Calculation:**
-   - Formula: 
-     \[
-     \text{Simple Interest} = \frac{P \times R \times T}{100}
-     \]
-   - The application calculates simple interest and adds it to the principal to provide the total amount.
-
-2. **Compound Interest Calculation:**
-   - Formula: 
-     \[
-     A = P \left(1 + \frac{R}{n}\right)^{nt}
-     \]
-
 #### **Output:**
 
-![Alt Text](https://postimg.cc/G9mfSMBk)
+![Alt Text](https://i.postimg.cc/ZY8hn24D/miniproject.png)
 
-     \[
-     \text{Compound Interest} = A - P
-     \]
-   - Based on the user-selected frequency (Annually, Semi-Annually, Quarterly, Monthly), the app calculates compound interest.
