@@ -41,6 +41,11 @@ This project is an interactive **Interest Calculator** web application developed
      \[
      A = P \left(1 + \frac{R}{n}\right)^{nt}
      \]
+
+#### **Output:**
+
+![Alt Text](https://postimg.cc/G9mfSMBk)
+
      \[
      \text{Compound Interest} = A - P
      \]
